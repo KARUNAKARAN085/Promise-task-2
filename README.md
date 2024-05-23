@@ -1,4 +1,4 @@
-# Promise task-1
+# Promise task-2
 
 1. Created html file and added script.js.
 2. In script.js, I used fetch() API to get Emoji's data.
